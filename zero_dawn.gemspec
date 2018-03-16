@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "We're going to save the world at the cost of the world."
   spec.description   = "Operation Enduring Victory is a lie. Doctor Sobeck can tell you more in the next briefing room..."
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/Teleportal/zero_dawn"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'

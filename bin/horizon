@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'zero_dawn'
+
+ZeroDawn::Gaia.new.hades
